@@ -1,0 +1,7 @@
+this is a test file for git
+git branch name 
+git checkout name
+git status
+git add filename
+git commit -m 'message'
+git push or git push --set-upstream origin name
